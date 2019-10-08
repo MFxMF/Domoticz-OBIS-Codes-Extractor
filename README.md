@@ -195,7 +195,8 @@ Escape character is '^]'.<br>
 !<br>
 
 <h2>Domoticz Setup </h2><br>
-![Screenshot](Devices.png) <br>
+Domoticz hardware
+![Screenshot](hw.png) <br>
 
 After setup domoticz plugin on the Domoticz Devices a new idx should be created<br>
 ![Screenshot](Devices.png) <br>
