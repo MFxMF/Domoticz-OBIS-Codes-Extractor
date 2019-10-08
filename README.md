@@ -204,5 +204,7 @@ After setup domoticz plugin on the Domoticz Devices a new idx should be created<
 ![Screenshot](Devices.png) <br>
 
 <h2>Example LUA Code </h2><br>
-![Screenshot](lua.png) <br>
+Make your own. Below an example.<br>
 
+![Screenshot](lua.png) <br>
+![Screenshot](lua.png) <br>
