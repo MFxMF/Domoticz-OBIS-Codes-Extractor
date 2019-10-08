@@ -2,18 +2,17 @@
 Domoticz Plugin to extracting OBIS CODES values from Power Meters
 
 
-Installation: 
-cd ~/domoticz/plugins
-git clone https://github.com/MFxMF/Domoticz-OBIS-Codes-Extractor
-sudo pip3 install telnetlib3
+Installation: <br>
+cd ~/domoticz/plugins <br>
+git clone https://github.com/MFxMF/Domoticz-OBIS-Codes-Extractor <br>
+sudo pip3 install telnetlib3 <br>
+<br>
+Restart your domoticz server. <br>
 
 
-Restart your domoticz server. 
+Used python modules: <br>
+telnetlib3 -> https://telnetlib3.readthedocs.io<br>
 
+<br>
 
-Used python modules: 
-telnetlib3 -> https://telnetlib3.readthedocs.io
-
-
-
-Tested on domoticz 4.10717
+Tested on domoticz 4.10717<br>
