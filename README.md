@@ -24,7 +24,7 @@ Connection RS485 to LAN conventer to the Power Meter
 ![Screenshot](connection.png)
 
 
-<h2>Setup RS485 to Lan Conventer <h2><br>
+<h2>Setup RS485 to Lan Conventer </h2><br>
 
 Home page -> https://www.usriot.com/products/modbus-serial-to-ethernet-converters.html<br>
 
