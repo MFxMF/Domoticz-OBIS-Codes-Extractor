@@ -203,3 +203,6 @@ Domoticz hardware<br>
 After setup domoticz plugin on the Domoticz Devices a new idx should be created<br>
 ![Screenshot](Devices.png) <br>
 
+
+
+
