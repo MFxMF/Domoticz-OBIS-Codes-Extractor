@@ -16,3 +16,12 @@ telnetlib3 -> https://telnetlib3.readthedocs.io<br>
 <br>
 
 Tested on domoticz 4.10717<br>
+
+
+<h1>SETUP</H1>
+
+Connection RS485 to LAN conventer to the Power Meter
+![Screenshot](connection.png)
+
+
+<h2>Setup Lan Conventer <h2>
