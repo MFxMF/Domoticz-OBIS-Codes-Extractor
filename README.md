@@ -5,7 +5,7 @@ This plugin only helping to extracting data from Power meters<br>
 All new device are creating as a text.<br>
 You have to make your on lua script, use value from obis text device and update the dummy device to make charts.<br>
 <br><br>
-Obis codes descriptions -> https://www.promotic.eu/en/pmdoc/Subsystems/Comm/PmDrivers/IEC62056_OBIS.htm><br> 
+Obis codes descriptions -> https://www.promotic.eu/en/pmdoc/Subsystems/Comm/PmDrivers/IEC62056_OBIS.htm<br> 
 
 
 
