@@ -1,10 +1,10 @@
 # Domoticz-OBIS-Codes-Extractor
 Domoticz Plugin to extracting OBIS CODES values from Power Meters
 
-This plugin only helping to extracting data from Power meters
-All new device are creating as a text.
-You have to make your on lua script, use value from obis text device and update dummy devices to 
-have chars.
+This plugin only helping to extracting data from Power meters<br>
+All new device are creating as a text.<br>
+You have to make your on lua script, use value from obis text device and update the dummy device to make charts.<br>
+
 
 
 
