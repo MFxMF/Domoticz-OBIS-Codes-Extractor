@@ -51,8 +51,9 @@ Conventer Home page -> https://www.usriot.com/products/modbus-serial-to-ethernet
 
 <h2>Connection TEST </h2><br>
 To do connection test you have to telnet to RS485 conventer and after the connection<br>
-input initial code. In my case is: <b>/?!</b>
-<i>Sometime device serial numer is neccesary</i><br>Example Below:<br>
+input initial code.
+<br>In my case is: <b>/?!</b>
+<i>Sometime device serial numer is neccesary</i><br>Example Below:<br>>br>
 
 pi@raspberry:~$ telnet 192.168.2.221 26<br>
 Trying 192.168.2.221...<br>
