@@ -206,7 +206,7 @@ Escape character is '^]'.<br>
 
 Domoticz hardware<br>
 ![Screenshot](hw.png) <br>
-After setup domoticz plugin on the Domoticz Devices a new idx should be created<br>
+After setup domoticz plugin, on the Domoticz Devices, a new idx should be created<br>
 ![Screenshot](Devices.png) <br>
 
 <h2>Example LUA Code </h2><br>
