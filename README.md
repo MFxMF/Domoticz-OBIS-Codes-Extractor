@@ -189,5 +189,5 @@ Escape character is '^]'.<br>
 !<br>
 
 
-
-
+<h2>Domoticz Setup </h2><br>
+![Screenshot](Hardware.png) <br>
