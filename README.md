@@ -207,4 +207,3 @@ After setup domoticz plugin on the Domoticz Devices a new idx should be created<
 Make your own. Below an example.<br>
 
 ![Screenshot](lua.png) <br>
-![Screenshot](lua.png) <br>
